@@ -1,4 +1,4 @@
 all : sigma.png
 
-sigma.png : Final.py
+sigma.png : sigma.py
 	python sigma.py
